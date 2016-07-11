@@ -1,0 +1,21 @@
+# mac files
+.DS_Store
+
+# ipython notebook
+.ipynb_checkpoints
+
+# aws
+metastore_db/
+
+# pickled files
+*.pkl
+
+# log files
+*.log
+
+# json files
+*.json
+
+# virtualenv
+venv/
+ENV/
