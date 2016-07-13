@@ -19,3 +19,9 @@ metastore_db/
 # virtualenv
 venv/
 ENV/
+
+# other data files
+*.hdf
+*.xml
+*.tif
+*.jpg
