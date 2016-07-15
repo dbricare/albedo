@@ -24,6 +24,3 @@ ENV/
 *.hdf
 *.xml
 *.tif
-*.jpg
-*.png
-*.gif
